@@ -7,7 +7,7 @@ function Features() {
       </p>
       <div className="grid items-center justify-center lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1 gap-4 text-center">
         <div className="flex flex-col gap-2 px-[70px] py-[24px] border-collapse bg-white">
-          <img src="./public/website-illustration.png" alt="Website Illustration" />
+          <img src="./src.assets/website-illustration.png" alt="Website Illustration" />
           <h3 className="font-bold text-xl">Vebsayt tuzish</h3>
           <p>lorem ipsum</p>
         </div>
